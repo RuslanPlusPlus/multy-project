@@ -1,0 +1,2 @@
+com/ruslan/task1/App.java
+ com.ruslan.task1.App
